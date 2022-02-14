@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 
-wget -O /var/volatile/tmp/docsat.tar.gz "https://github.com/tar1971/docsat/blob/raw/docsat.tar.gz"
+wget -O /var/volatile/tmp/docsat.tar.gz "https://github.com/tar1971/docsat/raw/main/docsat.tar.gz"
 
 echo ""
 # Download and install plugin
