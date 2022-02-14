@@ -7,7 +7,7 @@ echo ""
 # Download and install plugin
 cd /tmp
 set -e
-echo "===> Downloading And Installing  docsat Please Wait ......"
+echo "===> Downloading And Installing  installer Please Wait ......"
 echo
 tar -xzf docsat.tar.gz -C /
 set +e
